@@ -15,9 +15,6 @@ This repository contains the code for the GODSCALE project. GODSCALE is a roguel
 - **Assets/**: All asset files used in the project.
 - **Packages/**: Directory containing project packages.
 - **ProjectSettings/**: Project configuration files.
-- **.gitattributes**: Git attributes file.
-- **.gitignore**: Git ignore file.
-- **.vsconfig**: Visual Studio configuration file.
 
 ## **Contributors**
 - [DavidBG88](https://github.com/DavidBG88)
